@@ -8,6 +8,7 @@ metadata:
   #   github.com/project-slug: backstage/backstage
   #   backstage.io/techdocs-ref: dir:.
 spec:
+  system: local
   type: website
   owner: kunal@localtechnologies.com
   lifecycle: experimental
